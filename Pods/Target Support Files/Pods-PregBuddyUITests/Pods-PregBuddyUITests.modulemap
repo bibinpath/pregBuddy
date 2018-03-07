@@ -1,0 +1,6 @@
+framework module Pods_PregBuddyUITests {
+  umbrella header "Pods-PregBuddyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

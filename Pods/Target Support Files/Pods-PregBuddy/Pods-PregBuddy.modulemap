@@ -1,0 +1,6 @@
+framework module Pods_PregBuddy {
+  umbrella header "Pods-PregBuddy-umbrella.h"
+
+  export *
+  module * { export * }
+}
